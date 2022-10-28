@@ -4,7 +4,7 @@ A Bubble Shooter game made using C++ and SFML. it is for 1st year computer scien
 
 algorithms & Physics & Math with  [Abanoub Ashraf](https://github.com/abanoubashraf686) 
 
-Graphic Desin & GUI & Animation with [Kerollos Rady](https://github.com/KerollosRady)
+Graphic Design & GUI & Animation with [Kerollos Rady](https://github.com/KerollosRady)
 
  Team Leader : [Abanoub Ashraf](https://github.com/abanoubashraf686) 
  
