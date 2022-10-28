@@ -22,7 +22,8 @@ The goal of the game is to clear the playing field by forming groups of two or m
 
 - There are 4 ball themes as shown in [this video](https://www.facebook.com/events/752863539241764/?post_id=757243375470447&view=permalink&__cft__[0]=AZV54XU_sMwcT30iAWNQJPzsJLlD2OIvAojhKLrNlZvEdfwTI143YkL_Oa7hcbm6YBe0____NH_9YngtosthO9GLt6qBzku8D3e5Mwnpo2Wy7D5jN4Mo0UQpiuiXc6FflVJn7C2Qhi3LJcdLKOZAf81d&__tn__=%2CO%2CP-y-R) available for all levels .
 - There is an animated background in the menu as shown in [this video](https://www.facebook.com/events/752863539241764/?post_id=757243375470447&view=permalink&__cft__[0]=AZV54XU_sMwcT30iAWNQJPzsJLlD2OIvAojhKLrNlZvEdfwTI143YkL_Oa7hcbm6YBe0____NH_9YngtosthO9GLt6qBzku8D3e5Mwnpo2Wy7D5jN4Mo0UQpiuiXc6FflVJn7C2Qhi3LJcdLKOZAf81d&__tn__=%2CO%2CP-y-R) .
-- If a group of balls are hit and there are balls suspended in the air, they fall at different speeds to give a wonderful appearance as shown in [this video]If a group of balls are hit and there are balls suspended in the air, they fall at different speeds to give a wonderful appearance as shown in [this video](https://www.facebook.com/events/752863539241764/?post_id=757243375470447&view=permalink&__cft__[0]=AZV54XU_sMwcT30iAWNQJPzsJLlD2OIvAojhKLrNlZvEdfwTI143YkL_Oa7hcbm6YBe0____NH_9YngtosthO9GLt6qBzku8D3e5Mwnpo2Wy7D5jN4Mo0UQpiuiXc6FflVJn7C2Qhi3LJcdLKOZAf81d&__tn__=%2CO%2CP-y-R) .
+- If a group of balls are hit and there are balls suspended in the air, they fall at different speeds to give a wonderful appearance as shown in [this video](https://www.facebook.com/events/752863539241764/?post_id=757243375470447&view=permalink&__cft__[0]=AZV54XU_sMwcT30iAWNQJPzsJLlD2OIvAojhKLrNlZvEdfwTI143YkL_Oa7hcbm6YBe0____NH_9YngtosthO9GLt6qBzku8D3e5Mwnpo2Wy7D5jN4Mo0UQpiuiXc6FflVJn7C2Qhi3LJcdLKOZAf81d&__tn__=%2CO%2CP-y-R) .
+
 ## Developers : 
 
 - [Abanoub Ashraf](https://github.com/abanoubashraf686)
