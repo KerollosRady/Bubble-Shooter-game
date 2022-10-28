@@ -2,7 +2,7 @@
 
 - A Bubble Shooter game made using C++ and SFML. it is for 1st year computer science (FCIS) project .
 
-- algorithms & Physics & Math with  [Abanoub Ashraf](https://github.com/abanoubashraf686) 
+- Algorithms & Physics & Math with  [Abanoub Ashraf](https://github.com/abanoubashraf686) 
 
 - Graphic Design & GUI & Animation with [Kerollos Rady](https://github.com/KerollosRady)
 
