@@ -9,8 +9,13 @@ I Applied  algorithms & Physics & Math .
  Tech used: C++ - SFML
 
  It took only week
+ 
+## Developers : 
 
-### Best project in Structured Programming contest held by Ain-Shams University and sponsored by IBM.
+- [Kerollos Rady](https://github.com/KerollosRady)
+- [Abanoub Ashraf](https://github.com/abanoubashraf686)
+
+## Best project in Structured Programming contest held by Ain-Shams University and sponsored by IBM.
 
 ![alt text](https://github.com/abanoubashraf686/Bubble-Shooter-game/blob/main/Awards.jpg)
 
