@@ -23,5 +23,5 @@
 
 ![alt text](https://github.com/abanoubashraf686/Bubble-Shooter-game/blob/main/Awards.jpg)
 
-- ###July 2022: Participant, ranked 8th out of 138 projects.
+## - July 2022: Participant, ranked 8th out of 138 projects.
 
